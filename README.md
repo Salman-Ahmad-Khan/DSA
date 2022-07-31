@@ -23,61 +23,52 @@ which are usually integers used to compute offsets
  Each recursive call requires extra space on the stack frame (i.e. Memory).<br>
  Solution to some problems are easier to formulate recursively.<br>
 
-Why recursion?
+#### Why recursion?
 >  Recursive code is generally shorter and easier to write than iterative code. <br>
 
 
 ## Linked List
-> What is a linked List? <br
-
- Linked list is a data structure used for storing collections of data. <br
-
- Linked List has the following properties <br
-
- Successive elements are connected by pointers <br
-
- Last element points to NULL <br
-
-It can grow or shrink size during execution of a program <br
-
- It can be made just as long as required <br
-
- It does not waste memory space <br
+> What is a linked List? <br>
+> Linked list is a data structure used for storing collections of data. <br>
+> Linked List has the following properties <br>
+>  Successive elements are connected by pointers <br>
+>  Last element points to NULL <br>
+> It can grow or shrink size during execution of a program <br>
+>  It can be made just as long as required <br>
+> It does not waste memory space <br>
 
 
 
-What is node? <br
-> When we talk about storing list of information, each information set is a node which also plays a role of connection point in the list. <br
+What is node? <br>
+> When we talk about storing list of information, each information set is a node which also plays a role of connection point in the list. <br>
 
 
 
 
 
-Arrays: Single block of memory with partitions <br
+#### Arrays <br>
+> Single block of memory with partitions <br>
 
 
-Linked list: Multiple blocks of memory linked to each other <br
-
-
-
-
-Limitations in arrays: <br
-
- > Fixed size <br
-
- Contiguous block of memory <br
-
- Inserting or deleting is costly <br
+#### Linked list <br>
+> Multiple blocks of memory linked to each other <br>
 
 
 
 
-Properties of Linked List: <br
-> Size can be modified <br
+Limitations in arrays: <br>
 
- Non-contiguous memory <br
+ > Fixed size <br>
+> Contiguous block of memory <br>
+> Inserting or deleting is costly <br>
 
- Insertion and deletion at any point is easier <br
+
+
+
+#### Properties of Linked List: <br>
+> Size can be modified <br>
+>Non-contiguous memory <br>
+> Insertion and deletion at any point is easier <br>
 
 
 
