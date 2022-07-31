@@ -3,6 +3,7 @@
 
 - [Array](#array)
 - [Recursion](#recursion)
+- [Linked List](#linked list)
 
 ## Array
 > An Array is a linear collection of elements,  
@@ -24,6 +25,60 @@ which are usually integers used to compute offsets
 
 Why recursion?
 >  Recursive code is generally shorter and easier to write than iterative code. <br>
+
+
+## Linked List
+> What is a linked List? <br
+
+ Linked list is a data structure used for storing collections of data. <br
+
+ Linked List has the following properties <br
+
+ Successive elements are connected by pointers <br
+
+ Last element points to NULL <br
+
+It can grow or shrink size during execution of a program <br
+
+ It can be made just as long as required <br
+
+ It does not waste memory space <br
+
+
+
+What is node? <br
+> When we talk about storing list of information, each information set is a node which also plays a role of connection point in the list. <br
+
+
+
+
+
+Arrays: Single block of memory with partitions <br
+
+
+Linked list: Multiple blocks of memory linked to each other <br
+
+
+
+
+Limitations in arrays: <br
+
+ > Fixed size <br
+
+ Contiguous block of memory <br
+
+ Inserting or deleting is costly <br
+
+
+
+
+Properties of Linked List: <br
+> Size can be modified <br
+
+ Non-contiguous memory <br
+
+ Insertion and deletion at any point is easier <br
+
 
 
 
