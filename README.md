@@ -26,7 +26,7 @@ which are usually integers used to compute offsets
  Each recursive call requires extra space on the stack frame (i.e. Memory).<br>
  Solution to some problems are easier to formulate recursively.<br>
 
-#### Why recursion?
+#### Why recursion?  
 >  Recursive code is generally shorter and easier to write than iterative code. <br>
 
 
