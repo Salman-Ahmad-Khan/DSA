@@ -3,9 +3,9 @@
 
 - [Array](#array)
 - [Recursion](#recursion)
-- [LinkedList](#linkedlist)
-- [DoublyLinkedList](#DoublyLinkedList)
-- [DoublyLinkedList](#DoublyLinkedList)
+- [Linked List](#linkedlist)
+- [DoublyLinkedList](#doublylinkedlist)
+- [CircularLinkedList](#CircularLinkedList)
 
 
 ## Array
