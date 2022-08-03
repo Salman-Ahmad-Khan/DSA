@@ -1,5 +1,26 @@
 #include <iostream>
 using namespace std;
+/*
+What is STACK?
+• A stack is a list of elements in which an element may be inserted or deleted only at one end, called the top of the stack.
+• Stack is a specialized data storage structure (Abstract data type).
+
+Array and STACK
+• Unlike arrays, access of elements in a stack is restricted.
+It has two main functions push and pop
+• Insertion in a stack is done using push function and removal from a stack is done using pop function.
+
+
+Representation
+• Stack allows access to only the last element inserted hence, an item can be inserted or removed from the stack from one end called the top of the stack.
+• It is therefore, also called Last-In First-Out (LIFO) list
+
+Implementation
+• Stack can be implemented as
+- Array
+- Dynamic Array
+- Linked List
+*/
 
 // #define size 100 // size of array
 unsigned size; // store only positive value
