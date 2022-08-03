@@ -78,9 +78,9 @@ Limitations in arrays: <br>
 either forward and backward easily as compared to Single Linked List  <br>
 
 > Each node of Doubly Linked List has three fields  <br>
-1.Data <br>
-2.Next − Each link of a linked list contains a link to the next link called Next. <br>
-3.Prev − Each link of a linked list contains a link to the previous link called Prev. <br>
+> 1.Data <br>
+> 2.Next − Each link of a linked list contains a link to the next link called Next. <br>
+> 3.Prev − Each link of a linked list contains a link to the previous link called Prev. <br>
 
 > Doubly linked list contains one extra pointer as compare to the node of singly linked list. From any node we can traverse in both the direction. <br>
 
