@@ -3,7 +3,10 @@
 
 - [Array](#array)
 - [Recursion](#recursion)
-- [Linked List](#linked list)
+- [LinkedList](#linkedlist)
+- [DoublyLinkedList](#DoublyLinkedList)
+- [DoublyLinkedList](#DoublyLinkedList)
+
 
 ## Array
 > An Array is a linear collection of elements,  
@@ -69,6 +72,22 @@ Limitations in arrays: <br>
 > Size can be modified <br>
 >Non-contiguous memory <br>
 > Insertion and deletion at any point is easier <br>
+
+## Doubly Linked List
+> Doubly Linked List is a variation of Linked list in which navigation is possible in both ways,
+either forward and backward easily as compared to Single Linked List  <br>
+
+> Each node of Doubly Linked List has three fields  <br>
+1.Data <br>
+2.Next − Each link of a linked list contains a link to the next link called Next. <br>
+3.Prev − Each link of a linked list contains a link to the previous link called Prev. <br>
+
+> Doubly linked list contains one extra pointer as compare to the node of singly linked list. From any node we can traverse in both the direction. <br>
+
+
+## Circular Linked List
+> Circular Linked List is a variation of Linked list in which the first element points to the last element  and  the  last  element  points  to  the  first  element. <br>
+>  Both  Singly  Linked  List  and Doubly Linked List can be made into a circular linked list. <br>
 
 
 
