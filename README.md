@@ -3,15 +3,9 @@
 
 - [Array](#array)
 - [Recursion](#recursion)
-<<<<<<< HEAD
-- [LinkedList](#linkedlist)
-- [DoublyLinkedList](#Doubly Linked List)
-- [DoublyLinkedList](#DoublyLinkedList)
-=======
 - [Linked List](#linkedlist)
 - [DoublyLinkedList](#doublylinkedlist)
 - [CircularLinkedList](#CircularLinkedList)
->>>>>>> ff8fe70462049aec4049a5a07c3ef2290a6aef60
 
 
 ## Array
