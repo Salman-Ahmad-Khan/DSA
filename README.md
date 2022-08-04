@@ -3,9 +3,15 @@
 
 - [Array](#array)
 - [Recursion](#recursion)
+<<<<<<< HEAD
 - [LinkedList](#linkedlist)
 - [DoublyLinkedList](#Doubly Linked List)
 - [DoublyLinkedList](#DoublyLinkedList)
+=======
+- [Linked List](#linkedlist)
+- [DoublyLinkedList](#doublylinkedlist)
+- [CircularLinkedList](#CircularLinkedList)
+>>>>>>> ff8fe70462049aec4049a5a07c3ef2290a6aef60
 
 
 ## Array
@@ -26,7 +32,7 @@ which are usually integers used to compute offsets
  Each recursive call requires extra space on the stack frame (i.e. Memory).<br>
  Solution to some problems are easier to formulate recursively.<br>
 
-#### Why recursion?
+#### Why recursion?  
 >  Recursive code is generally shorter and easier to write than iterative code. <br>
 
 
