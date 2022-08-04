@@ -4,7 +4,7 @@
 - [Array](#array)
 - [Recursion](#recursion)
 - [LinkedList](#linkedlist)
-- [DoublyLinkedList](#DoublyLinkedList)
+- [DoublyLinkedList](#Doubly Linked List)
 - [DoublyLinkedList](#DoublyLinkedList)
 
 

@@ -21,6 +21,7 @@ void show_data(int D[], int size_a)
     {
         cout << D[i] << " ";
     }
+    cout << endl;
 }
 
 main()
@@ -49,13 +50,13 @@ main()
             ARR[i] = ARR[i - 1];
         }
         ARR[position] = item;
-
-        cout << " Array after inserting " << item;
-        for (int i = 0; i <= size; i++)
-        {
-            cout << ARR[i] << " ";
-        }
     }
     else
         cout << "Invalid position";
+
+    cout << " Array after inserting '" << item << "', ";
+    for (int i = 0; i <= size; i++)
+    {
+        cout << ARR[i] << " ";
+    }
 }
