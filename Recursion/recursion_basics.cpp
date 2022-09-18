@@ -51,6 +51,7 @@ Recursion:
         cout << endl
              << nat_num << " is NOT a natural number." << endl
              << "Please input a VALID natural number.";
+    else
 
-    cout << "the sum of first " << nat_num << " natural number(s) is '" << sum_nat_num(nat_num) << "'."; // calling a function
+        cout << "the sum of first " << nat_num << " natural number(s) is '" << sum_nat_num(nat_num) << "'."; // calling a function
 }

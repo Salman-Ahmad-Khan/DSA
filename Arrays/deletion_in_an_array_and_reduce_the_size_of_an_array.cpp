@@ -12,13 +12,13 @@ main()
     cin >> n;
 
     cout << "Input the elements of an array ";
-    for (int i = 0; i < n; i++)
+    for (int i = 1; i <= n; i++)
     {
         cin >> A[i];
     }
 
     cout << "Original array " << endl;
-    for (int i = 0; i < n; i++)
+    for (int i = 1; i <= n; i++)
     {
         cout << A[i] << " ";
     }
@@ -29,7 +29,7 @@ main()
 
     // search an element to delete and track its position(index number)
     int position;
-    for (int i = 0; i < 10; i++)
+    for (int i = 0; i < n; i++)
     {
         if (A[i] == item)
             position = i;
@@ -37,11 +37,11 @@ main()
     }
 
     // overwrite elements and reduce the size of an array
-    for (int i = position; i < n - 1; i++)
+    for (int i = position - 1; i < n - 1; i++)
     {
         A[i] = A[i + 1];
-        n = n - 1;
     }
+    n = n - 1;
 
     // printing the final array
 

@@ -10,7 +10,7 @@ int power(int p, int q)
     else if (q == 1)
         return (p);
     else
-        return (p * power(p, (q - 1)));
+        return (p * power(p, (q - 1))); // recursive call
 }
 
 // iterative approach
@@ -48,6 +48,7 @@ main()
         cout << m << " is NOT a positive number." << endl
              << "Please input positive number.";
     }
+    else
 
-    cout << m << " raised to power " << n << " is " << power(m, n);
+        cout << m << " raised to power " << n << " is " << power(m, n);
 }
