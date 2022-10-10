@@ -36,6 +36,8 @@ Properties of Linked List:
 > Non-contiguous memory
 > Insertion and deletion at any point is easier
 
+
+
 */
 
 class node

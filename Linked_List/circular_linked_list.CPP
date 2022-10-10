@@ -35,6 +35,7 @@ void insertAtHead(node *&head, int value)
         return;
     }
     node *temp = head;
+
     while (temp->next != head)
     {
         temp = temp->next;

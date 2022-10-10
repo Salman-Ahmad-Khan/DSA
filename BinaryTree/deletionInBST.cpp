@@ -69,6 +69,7 @@ node *deleteInBST(node *root, int key)
         {
             node *temp = root->left;
             free(root);
+            // delete root;
             return temp;
         }
 
@@ -116,3 +117,4 @@ main()
     // inOrder(root);
     // cout << endl;
 }
+
