@@ -67,3 +67,4 @@ void search_in_fibonacci(int search)
              << "Sorry\nThe number you are searching(" << search << ") is nowhere in the Fibonaci Series" << endl;
     }
 }
+

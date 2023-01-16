@@ -1,5 +1,5 @@
 
-### Repository meant for understanding and practice the use of various data structures and algorithms used in programming.
+### A comprehensive collection intended for enhancing proficiency in the implementation of various data structures and algorithms in programming.
 
 - [Array](#array)
 - [Recursion](#recursion)
